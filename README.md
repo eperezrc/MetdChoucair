@@ -10,7 +10,7 @@ Choucair Testing es una empresa de ingeniería de software apasionada por el éx
 
 3. Realizar el curso
 
-Información final:
+**Información final:**
 
 · La fecha de salida a producción está dada por la necesidad actual del cliente, deberá contar 15 días hábiles a partir de la entrega de este documento.
 
@@ -32,7 +32,7 @@ De la HU anteriormente creada diseñar 6 casos de prueba donde 3 son de camino f
 
 5. Simulando la ejecución de los casos de prueba, explique y de un ejemplo de cómo realizaría el reporte de los ISSUES y su respectiva gestión.
 
-Información adicional:
+**Información adicional:**
 
 · Suponga que fueron entregadas las especificaciones de negocio y requisitos del sistema, diseñe la HU de acuerdo a como cree que debería funcionar el módulo.
 
@@ -62,7 +62,7 @@ Expresar preguntas puntuales al product owner, y buscar más información en la 
 
 D. ¿Quién cree que es el responsable de que usted conozca el contexto de negocio y la aplicación a probar?
 ```
-El primer responsable sería yo y luego el líder del equipo y su equipo. 
+El primer responsable sería yo y luego el testing project líder del equipo y su equipo. 
 ```
 E. ¿si entregara un informe de avance de sus pruebas que información relacionaría?
 ```
